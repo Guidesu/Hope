@@ -1,0 +1,61 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"a" = (
+/obj/effect/decal/cleanable/filth,
+/turf/simulated/floor/plating/under,
+/area/template_noop)
+"v" = (
+/turf/simulated/floor/plating/under,
+/area/template_noop)
+"I" = (
+/obj/random/pack/tech_loot,
+/turf/simulated/floor/plating/under,
+/area/template_noop)
+"J" = (
+/turf/template_noop,
+/area/template_noop)
+"K" = (
+/obj/effect/decal/cleanable/blood,
+/turf/simulated/floor/plating/under,
+/area/template_noop)
+"N" = (
+/obj/item/mine/armed,
+/obj/structure/closet/crate,
+/obj/random/pack/tech_loot,
+/turf/simulated/floor/plating/under,
+/area/template_noop)
+
+(1,1,1) = {"
+J
+J
+J
+I
+a
+"}
+(2,1,1) = {"
+J
+J
+J
+J
+a
+"}
+(3,1,1) = {"
+v
+J
+K
+J
+J
+"}
+(4,1,1) = {"
+a
+N
+J
+v
+J
+"}
+(5,1,1) = {"
+J
+v
+J
+J
+J
+"}

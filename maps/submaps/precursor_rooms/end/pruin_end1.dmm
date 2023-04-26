@@ -1,0 +1,296 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"b" = (
+/obj/effect/gibspawner/human,
+/turf/simulated/floor/rock/manmade/ruin1,
+/area/precursor)
+"d" = (
+/obj/random/psi/guns,
+/turf/simulated/floor/beach/sand/desert,
+/area/precursor)
+"e" = (
+/obj/effect/floor_decal/spline/grass_edge{
+	dir = 4
+	},
+/turf/simulated/floor/rock/manmade/ruin1,
+/area/precursor)
+"f" = (
+/turf/simulated/floor/beach/water/coastwatercorner{
+	dir = 1
+	},
+/area/precursor)
+"j" = (
+/obj/effect/gibspawner/human,
+/turf/simulated/floor/beach/sand/desert,
+/area/precursor)
+"m" = (
+/obj/effect/overlay/coconut,
+/turf/simulated/floor/beach/water/coastwatercorner,
+/area/precursor)
+"n" = (
+/obj/structure/flora/tree/palm{
+	pixel_x = 0
+	},
+/turf/simulated/floor/beach/sand/desert,
+/area/precursor)
+"p" = (
+/obj/effect/gibspawner/human,
+/turf/simulated/floor/snow,
+/area/precursor)
+"q" = (
+/turf/simulated/floor/snow,
+/area/precursor)
+"r" = (
+/obj/random/psi/weapons,
+/turf/simulated/floor/snow,
+/area/precursor)
+"s" = (
+/obj/structure/flora/small/grassa2,
+/turf/simulated/floor/beach/sand/desert,
+/area/precursor)
+"t" = (
+/obj/random/psi/weapons/low_chance,
+/turf/simulated/floor/snow,
+/area/precursor)
+"v" = (
+/mob/living/carbon/superior_animal/psi_monster/dreaming_king{
+	icon_dead = "hivemind_tyrant";
+	icon_living = "hivemind_tyrant";
+	icon_state = "hivemind_tyrant";
+	color = "#636A91";
+	name = "The Stillborn";
+	desc = "The Stillborn, A creature that was once a machine, and once a living creature, torn apart through a accidently trip through a bluespace portal and reassembled on the otherside in a constant state of living and dead, it's screams are a constant reminder of it's nature."
+	},
+/turf/simulated/floor/rock/manmade/ruin1,
+/area/precursor)
+"y" = (
+/obj/structure/flora/tree/jungle/variant4,
+/turf/simulated/floor/beach/sand/desert,
+/area/precursor)
+"A" = (
+/turf/simulated/wall/tomb_king,
+/area/precursor)
+"B" = (
+/obj/structure/flora/small/grassa5,
+/turf/simulated/floor/beach/sand/desert,
+/area/precursor)
+"C" = (
+/obj/structure/flora/tree/dead,
+/turf/simulated/floor/snow,
+/area/precursor)
+"D" = (
+/obj/machinery/genetics/cloner{
+	color = "#72358C";
+	icon = 'icons/obj/bluespace_portal.dmi';
+	icon_state = "bluespace_portal";
+	pixel_x = -16;
+	name = "Broken ancient teleporter";
+	desc = "A giant ancient teleporter, some of the lights still flash powered through unknown means. Likely the cause of all that is happening within the ruins."
+	},
+/obj/random/pack/tech_loot,
+/obj/random/psi_catalyst,
+/obj/item/device/psionic_catalyst/dull{
+	name = "teleporter catalyst";
+	desc = "A unique catalyst created to provide enough power to a teleporter for just one more portal, it humms with endless possibilities and endless horrors."
+	},
+/obj/structure/invislightsmall{
+	light_color = "#A666B1";
+	light_power = 2;
+	light_range = 9
+	},
+/turf/simulated/floor/rock/manmade/ruin1,
+/area/precursor)
+"E" = (
+/obj/structure/flora/small/grassb3,
+/turf/simulated/floor/beach/sand/desert,
+/area/precursor)
+"G" = (
+/obj/effect/gibspawner/human,
+/turf/simulated/floor/beach/water/coastwatercorner{
+	dir = 8
+	},
+/area/precursor)
+"H" = (
+/obj/effect/overlay/coconut,
+/turf/simulated/floor/beach/sand/desert,
+/area/precursor)
+"K" = (
+/obj/random/psi/weapons/low_chance,
+/turf/simulated/floor/beach/sand/desert,
+/area/precursor)
+"L" = (
+/obj/structure/flora/small/grassa4,
+/turf/simulated/floor/beach/sand/desert,
+/area/precursor)
+"Q" = (
+/turf/simulated/floor/beach/sand/desert,
+/area/precursor)
+"S" = (
+/obj/random/psi/tools/low_chance,
+/turf/simulated/floor/beach/sand/desert,
+/area/precursor)
+"T" = (
+/obj/random/psi,
+/turf/simulated/floor/beach/water/coastwatercorner{
+	dir = 4
+	},
+/area/precursor)
+"W" = (
+/turf/simulated/floor/rock/manmade/ruin1,
+/area/precursor)
+"X" = (
+/obj/effect/floor_decal/spline/grass_edge{
+	dir = 10
+	},
+/turf/simulated/floor/rock/manmade/ruin1,
+/area/precursor)
+"Y" = (
+/obj/structure/flora/grass/both,
+/turf/simulated/floor/snow,
+/area/precursor)
+"Z" = (
+/turf/simulated/wall/ice,
+/area/precursor)
+
+(1,1,1) = {"
+A
+A
+A
+Z
+Z
+Z
+A
+A
+Z
+Z
+A
+"}
+(2,1,1) = {"
+Z
+m
+G
+W
+q
+W
+r
+p
+Y
+t
+A
+"}
+(3,1,1) = {"
+Z
+f
+T
+q
+q
+A
+q
+C
+Z
+Y
+Z
+"}
+(4,1,1) = {"
+A
+j
+q
+q
+q
+q
+q
+W
+q
+W
+Z
+"}
+(5,1,1) = {"
+A
+Q
+W
+q
+W
+q
+W
+W
+W
+W
+W
+"}
+(6,1,1) = {"
+A
+D
+W
+W
+v
+W
+W
+b
+W
+W
+W
+"}
+(7,1,1) = {"
+Z
+Q
+W
+Q
+e
+e
+e
+Q
+Q
+W
+W
+"}
+(8,1,1) = {"
+Z
+L
+y
+S
+s
+Q
+L
+H
+Q
+b
+A
+"}
+(9,1,1) = {"
+Z
+Q
+Z
+Q
+Q
+Q
+n
+Q
+A
+K
+Z
+"}
+(10,1,1) = {"
+A
+j
+B
+E
+H
+X
+Q
+d
+L
+j
+Z
+"}
+(11,1,1) = {"
+A
+A
+Z
+Z
+Z
+A
+A
+A
+Z
+Z
+Z
+"}

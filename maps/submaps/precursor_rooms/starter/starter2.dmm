@@ -1,0 +1,338 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"a" = (
+/turf/simulated/floor/rock/manmade/ruin1,
+/area/precursor)
+"c" = (
+/obj/structure/flora/small/grassa1,
+/turf/simulated/floor/asteroid/grass,
+/area/precursor)
+"e" = (
+/obj/structure/flora/small/grassb2,
+/turf/simulated/floor/rock/manmade/ruin1,
+/area/precursor)
+"k" = (
+/obj/structure/flora/small/grassb3,
+/turf/simulated/floor/asteroid/grass,
+/area/precursor)
+"m" = (
+/obj/structure/table/reinforced,
+/turf/simulated/floor/rock/manmade/ruin1,
+/area/precursor)
+"n" = (
+/obj/effect/floor_decal/spline/grass_edge,
+/turf/simulated/floor/rock/manmade/ruin1,
+/area/precursor)
+"o" = (
+/obj/effect/floor_decal/spline/grass_edge{
+	dir = 10
+	},
+/turf/simulated/floor/rock/manmade/ruin1,
+/area/precursor)
+"p" = (
+/obj/structure/table/reinforced,
+/obj/item/device/depth_scanner,
+/obj/item/device/ano_scanner,
+/turf/simulated/floor/rock/manmade/ruin1,
+/area/precursor)
+"s" = (
+/obj/structure/flora/small/grassb5,
+/turf/simulated/floor/asteroid/grass,
+/area/precursor)
+"u" = (
+/obj/structure/flora/small/grassb2,
+/obj/effect/floor_decal/spline/grass_edge{
+	dir = 8
+	},
+/turf/simulated/floor/rock/manmade/ruin1,
+/area/precursor)
+"x" = (
+/obj/structure/flora/small/grassb2,
+/turf/simulated/floor/asteroid/grass,
+/area/precursor)
+"y" = (
+/obj/effect/floor_decal/spline/grass_edge/corner{
+	dir = 6
+	},
+/turf/simulated/floor/rock/manmade/ruin1,
+/area/precursor)
+"z" = (
+/obj/structure/flora/tree/jungle/variant3,
+/turf/simulated/floor/asteroid/grass,
+/area/precursor)
+"A" = (
+/obj/effect/floor_decal/spline/grass_edge{
+	dir = 4
+	},
+/turf/simulated/floor/rock/manmade/ruin1,
+/area/precursor)
+"B" = (
+/obj/effect/floor_decal/spline/grass_edge{
+	dir = 1
+	},
+/obj/effect/floor_decal/spline/grass_edge{
+	dir = 8
+	},
+/turf/simulated/floor/rock/manmade/ruin1,
+/area/precursor)
+"C" = (
+/obj/effect/floor_decal/spline/grass_edge/corner{
+	dir = 10
+	},
+/turf/simulated/floor/rock/manmade/ruin1,
+/area/precursor)
+"D" = (
+/obj/structure/table/reinforced,
+/obj/item/device/lighting/toggleable/flashlight/heavy,
+/obj/item/storage/bag/fossils,
+/obj/item/tool/pickaxe/excavation,
+/turf/simulated/floor/rock/manmade/ruin1,
+/area/precursor)
+"E" = (
+/obj/structure/flora/small/grassb5,
+/obj/effect/floor_decal/spline/grass_edge{
+	dir = 8
+	},
+/turf/simulated/floor/rock/manmade/ruin1,
+/area/precursor)
+"F" = (
+/obj/structure/table/reinforced,
+/obj/item/gun/energy/cog,
+/obj/item/cell/medium/super,
+/turf/simulated/floor/rock/manmade/ruin1,
+/area/precursor)
+"G" = (
+/obj/structure/flora/tree/jungle/variant1,
+/turf/simulated/floor/asteroid/grass,
+/area/precursor)
+"H" = (
+/obj/effect/floor_decal/spline/grass_edge{
+	dir = 1
+	},
+/turf/simulated/floor/rock/manmade/ruin1,
+/area/precursor)
+"I" = (
+/obj/effect/floor_decal/spline/grass_edge/corner{
+	dir = 9
+	},
+/turf/simulated/floor/rock/manmade/ruin1,
+/area/precursor)
+"K" = (
+/obj/structure/flora/small/grassb1,
+/turf/simulated/floor/asteroid/grass,
+/area/precursor)
+"L" = (
+/turf/simulated/floor/asteroid/grass,
+/area/precursor)
+"M" = (
+/obj/effect/floor_decal/spline/grass_edge/corner{
+	dir = 5
+	},
+/turf/simulated/floor/rock/manmade/ruin1,
+/area/precursor)
+"N" = (
+/obj/structure/flora/small/grassa4,
+/obj/structure/flora/tree/jungle_small/variant4,
+/turf/simulated/floor/asteroid/grass,
+/area/precursor)
+"O" = (
+/obj/machinery/floodlight{
+	on = 1
+	},
+/turf/simulated/floor/rock/manmade/ruin1,
+/area/precursor)
+"P" = (
+/obj/structure/flora/small/grassa3,
+/turf/simulated/floor/asteroid/grass,
+/area/precursor)
+"S" = (
+/obj/structure/flora/small/grassa4,
+/turf/simulated/floor/asteroid/grass,
+/area/precursor)
+"T" = (
+/obj/structure/flora/tree/jungle/variant4,
+/turf/simulated/floor/asteroid/grass,
+/area/precursor)
+"U" = (
+/obj/effect/floor_decal/spline/grass_edge{
+	dir = 8
+	},
+/turf/simulated/floor/rock/manmade/ruin1,
+/area/precursor)
+"X" = (
+/obj/item/stool,
+/turf/simulated/floor/rock/manmade/ruin1,
+/area/precursor)
+"Y" = (
+/obj/structure/flora/small/grassb3,
+/mob/living/simple_animal/hostile/snake{
+	aggro_vision_range = 0;
+	name = "missy-hissy"
+	},
+/turf/simulated/floor/asteroid/grass,
+/area/precursor)
+
+(1,1,1) = {"
+a
+a
+y
+A
+A
+A
+A
+M
+y
+A
+A
+M
+a
+"}
+(2,1,1) = {"
+a
+a
+n
+K
+P
+P
+P
+H
+n
+T
+S
+H
+a
+"}
+(3,1,1) = {"
+a
+a
+C
+o
+c
+c
+c
+H
+n
+s
+L
+H
+a
+"}
+(4,1,1) = {"
+a
+a
+a
+n
+K
+G
+k
+H
+C
+E
+U
+I
+a
+"}
+(5,1,1) = {"
+a
+a
+a
+n
+K
+L
+Y
+H
+O
+a
+a
+a
+a
+"}
+(6,1,1) = {"
+a
+a
+a
+C
+U
+U
+U
+I
+a
+a
+a
+a
+a
+"}
+(7,1,1) = {"
+y
+A
+A
+A
+M
+a
+a
+a
+y
+A
+A
+A
+M
+"}
+(8,1,1) = {"
+n
+c
+z
+L
+H
+a
+X
+F
+n
+L
+N
+S
+H
+"}
+(9,1,1) = {"
+n
+c
+B
+U
+I
+D
+m
+p
+n
+L
+x
+x
+H
+"}
+(10,1,1) = {"
+C
+U
+I
+e
+a
+a
+a
+a
+C
+U
+u
+U
+I
+"}
+(11,1,1) = {"
+a
+a
+a
+e
+a
+a
+a
+a
+a
+a
+a
+a
+a
+"}

@@ -1,0 +1,80 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"a" = (
+/turf/simulated/wall/r_wall,
+/area/template_noop)
+"e" = (
+/obj/structure/bed/chair/shuttle{
+	dir = 8
+	},
+/turf/simulated/floor/plating/under,
+/area/template_noop)
+"i" = (
+/obj/effect/window_lwall_spawn/smartspawn,
+/turf/simulated/floor/plating/under,
+/area/template_noop)
+"q" = (
+/turf/simulated/floor/plating/under,
+/area/template_noop)
+"x" = (
+/obj/structure/girder,
+/turf/simulated/floor/plating/under,
+/area/template_noop)
+"J" = (
+/mob/living/carbon/superior_animal/human/voidwolf/ranged,
+/turf/simulated/floor/plating/under,
+/area/template_noop)
+"M" = (
+/obj/structure/low_wall,
+/turf/simulated/floor/plating/under,
+/area/template_noop)
+"N" = (
+/turf/template_noop,
+/area/template_noop)
+"O" = (
+/obj/structure/bed/chair/shuttle{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/blood,
+/turf/simulated/floor/plating/under,
+/area/template_noop)
+"X" = (
+/obj/effect/decal/cleanable/blood/gibs/body,
+/mob/living/carbon/superior_animal/human/voidwolf/elite,
+/turf/simulated/floor/plating/under,
+/area/template_noop)
+
+(1,1,1) = {"
+q
+x
+i
+M
+a
+"}
+(2,1,1) = {"
+N
+q
+q
+X
+q
+"}
+(3,1,1) = {"
+q
+J
+O
+e
+x
+"}
+(4,1,1) = {"
+N
+a
+N
+x
+x
+"}
+(5,1,1) = {"
+N
+N
+N
+q
+N
+"}

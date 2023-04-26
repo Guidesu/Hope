@@ -1,0 +1,49 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"a" = (
+/turf/template_noop,
+/area/template_noop)
+"w" = (
+/turf/unsimulated/mineral,
+/area/template_noop)
+"D" = (
+/turf/simulated/floor/plating/under,
+/area/template_noop)
+"I" = (
+/turf/simulated/floor/rock,
+/area/template_noop)
+
+(1,1,1) = {"
+w
+w
+a
+a
+a
+"}
+(2,1,1) = {"
+w
+I
+D
+D
+a
+"}
+(3,1,1) = {"
+w
+I
+I
+D
+a
+"}
+(4,1,1) = {"
+a
+I
+I
+I
+a
+"}
+(5,1,1) = {"
+a
+a
+a
+w
+w
+"}

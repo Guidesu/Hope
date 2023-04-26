@@ -1,0 +1,48 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"a" = (
+/obj/effect/window_lwall_spawn/smartspawn,
+/turf/simulated/floor/plating/under,
+/area/template_noop)
+"m" = (
+/turf/simulated/floor/tiled/steel,
+/area/template_noop)
+"K" = (
+/obj/random/turret/os,
+/turf/simulated/floor/tiled/steel,
+/area/template_noop)
+
+(1,1,1) = {"
+a
+a
+a
+a
+a
+"}
+(2,1,1) = {"
+a
+m
+m
+m
+a
+"}
+(3,1,1) = {"
+a
+m
+K
+m
+a
+"}
+(4,1,1) = {"
+a
+m
+m
+m
+a
+"}
+(5,1,1) = {"
+a
+a
+a
+a
+a
+"}

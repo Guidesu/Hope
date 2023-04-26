@@ -1,0 +1,50 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"a" = (
+/turf/template_noop,
+/area/template_noop)
+"h" = (
+/obj/random/mob/space_balkan,
+/turf/simulated/floor/tiled/dark,
+/area/template_noop)
+"z" = (
+/turf/simulated/floor/tiled/dark,
+/area/template_noop)
+"V" = (
+/turf/simulated/floor/plating/under,
+/area/template_noop)
+
+(1,1,1) = {"
+V
+a
+a
+a
+a
+"}
+(2,1,1) = {"
+V
+a
+a
+a
+a
+"}
+(3,1,1) = {"
+a
+a
+h
+z
+V
+"}
+(4,1,1) = {"
+a
+a
+V
+a
+a
+"}
+(5,1,1) = {"
+a
+a
+a
+a
+a
+"}
